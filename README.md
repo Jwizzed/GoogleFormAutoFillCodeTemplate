@@ -1,7 +1,6 @@
 # GoogleFormAutoFillCodeTemplate
 This is a code template program that can be used to auto-fill the Google form (Only choice questions)
 
-Test by: https://docs.google.com/forms/d/e/1FAIpQLSf3cpgt4hddwYXDNbFUOlVfZKDp2gEsDCat56_g3OVLgzQXcQ/viewform?usp=sharing
 **Note that this is a template code, You might need to modify some part to make it working in your own google form.
 
 ## Requirements
