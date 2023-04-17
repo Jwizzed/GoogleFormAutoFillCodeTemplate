@@ -2,7 +2,7 @@
 This is a code template program that can be used to auto-fill the Google form (Only choice questions)
 
 Test by: https://docs.google.com/forms/d/e/1FAIpQLSf3cpgt4hddwYXDNbFUOlVfZKDp2gEsDCat56_g3OVLgzQXcQ/viewform?usp=sharing
-**Note that this is a template code, It might not be working in your form.
+**Note that this is a template code, You might need to modify some part to make it working in your own google form.
 
 ## Requirements
 1) A Chrome driver that matches your Chrome version, you can check the driver version by going to your Chrome -> setting -> about Chrome. then you'll need to download a driver at this link https://chromedriver.chromium.org/downloads after you download you'll need to extract the zip then open the driver once and put it in the project directory (make sure you replace the old one) then we're all done.
