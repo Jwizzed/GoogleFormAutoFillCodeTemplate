@@ -4,7 +4,7 @@ This is a code template program that can be used to auto-fill the Google form (O
 **Note that this is a template code, It might not be working in your form.
 
 ## Requirements
-1) A Chrome driver that matches your Chrome version, you can check the driver version by going to your Chrome -> setting -> about Chrome. then you'll need to download a driver at this link https://chromedriver.chromium.org/downloads after you download you'll need to extract the zip then open the driver once and put it in the project directory then we're all done.
+1) A Chrome driver that matches your Chrome version, you can check the driver version by going to your Chrome -> setting -> about Chrome. then you'll need to download a driver at this link https://chromedriver.chromium.org/downloads after you download you'll need to extract the zip then open the driver once and put it in the project directory (make sure you replace the old one) then we're all done.
 (In this project I also add the Chome driver version 111.0.5 if you using the same version as me then you can skip the download part, but do not forget to open the driver once)
 2) Selenium library for Python, you can install it by using this command `pip install selenium` in your terminal.
 
