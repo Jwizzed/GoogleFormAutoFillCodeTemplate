@@ -4,7 +4,7 @@ import os
 import time
 from selenium.webdriver.common.by import By
 
-chrome_diver_path = "/Users/krittinsetdhavanich/Downloads/chromedriver_mac_arm64/chromedriver"  # Path to the chromedriver ()
+chrome_diver_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "chromedriver")  # If note working try abs path
 number = int(input("Enter the number of times you want to submit the form: "))
 web = input("Enter the link to the form: ")
 driver = webdriver.Chrome(executable_path=chrome_diver_path)
